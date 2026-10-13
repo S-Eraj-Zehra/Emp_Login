@@ -1,8 +1,8 @@
-# 👨‍💼 Employee Login & Attendance App
+# Employee Login & Attendance App
 
 A mobile application built using **React Native, Expo, and JavaScript (JSX)** to provide employee authentication and attendance management. The app features a simple login interface and an attendance screen where employees can view their attendance records through a clean and user-friendly design.
 
-## 📱 Screenshots
+## Screenshots
 
 <p align="center">
   <img src="screenshots/login-screen.png" alt="Employee Login Screen" width="250"/>
@@ -12,7 +12,7 @@ A mobile application built using **React Native, Expo, and JavaScript (JSX)** to
   <i>Employee Login Screen | Attendance Dashboard (removed due to privacy reasons) </i>
 </p>
 
-## ✨ Features
+## Features
 
 - 🔐 Employee login and authentication.
 - 👨‍💼 Employee attendance dashboard.
@@ -21,7 +21,7 @@ A mobile application built using **React Native, Expo, and JavaScript (JSX)** to
 - 🎨 Clean and user-friendly interface.
 - 📱 Mobile application developed with Expo.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **React Native** — Mobile app development.
 - **Expo** — Development and testing.
@@ -51,7 +51,7 @@ Employee-Attendance-App/
 └── README.md
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -100,14 +100,14 @@ Scan the QR code with a compatible Expo Go version or run the application using 
 5. The employee can view available attendance records, including dates, check-in times, and attendance status.
 6. The employee can log out of the application.
 
-## 🔒 Security Notes
+## Security Notes
 
 - Do not commit passwords, private API keys, or other secrets to GitHub.
 - Use HTTPS for production API communication.
 - Implement proper authentication and authorization on the backend.
 - Protect stored session credentials appropriately.
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - [ ] Add employee profile details.
 - [ ] Implement check-in and check-out functionality.
@@ -116,9 +116,9 @@ Scan the QR code with a compatible Expo Go version or run the application using 
 - [ ] Add secure token-based authentication.
 - [ ] Enhance the interface with additional animations and visual improvements.
 
-## 👩‍💻 Author
+## Author
 
-**Your Name**
+**Syeda Eraj Zehra**
 
 - GitHub: [@S-Eraj-Zehra](https://github.com/S-Eraj-Zehra)
 - LinkedIn: https://www.linkedin.com/in/e-zehra/
