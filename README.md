@@ -14,12 +14,12 @@ A mobile application built using **React Native, Expo, and JavaScript (JSX)** to
 
 ## Features
 
-- 🔐 Employee login and authentication.
-- 👨‍💼 Employee attendance dashboard.
-- 📅 View attendance records and dates.
-- 🕒 Display check-in times and attendance status.
-- 🎨 Clean and user-friendly interface.
-- 📱 Mobile application developed with Expo.
+-  Employee login and authentication.
+-  Employee attendance dashboard.
+-  View attendance records and dates.
+-  Display check-in times and attendance status.
+-  Clean and user-friendly interface.
+-  Mobile application developed with Expo.
 
 ## Technologies Used
 
@@ -31,7 +31,7 @@ A mobile application built using **React Native, Expo, and JavaScript (JSX)** to
 - **AsyncStorage** — Local session-state storage.
 - **REST API** — Backend communication.
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Employee-Attendance-App/
